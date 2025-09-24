@@ -40,9 +40,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - Microsoft: AZ-500 Azure Security Engineer
 - SC-200 Security Operations Analyst
 - Qualys: Vulnerability Management
-- Linux+ Powered by LPI Certification (https://www.linkedin.com/learning/certificates/b1cdd233e507e049ef89acbbfc99b7e1963653861aa523b7a2cb1f48905c864b?trk=share_certificate)
-- GDPR Foundations (https://measuredcollective.com/certificate-gdpr-foundations/?studentName=T2x1d2F0b3NpbiBNaWNoYWVsIEFkZW5peWk%3D&date=MjAyNS0wOS0xNFQwNjo1MzoxMS42MjBa)
-- ISO/IEC 27001:2022 Lead Auditor (https://learn.mastermindassurance.com/certificates/oseoxeamgs)
+- Linux+ Powered by LPI Certification 
+- GDPR Foundations
+- ISO/IEC 27001:2022 Lead Auditor
 
 ## 📫 Contact Me
 
