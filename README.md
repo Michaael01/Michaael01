@@ -27,7 +27,7 @@ To secure an role in Cybersecurity where I can apply my technical skills, certif
 - 🌐 Networking: TCP/IP, DNS, HTTP, OSI Model, Firewall
 - ☁️ Platforms: Kali Linux, Ubuntu (VM), VirtualBox, GitHub
 
-## 🔍 Current Projects
+## 🔍 JUST ONE CLICK TO SEE CURRENT PROJECTS
 
 -  [Cybersecurity Projects](https://github.com/Michaael01/SOC-Analyst-Lab)
 
@@ -43,6 +43,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - Linux+ Powered by LPI Certification 
 - GDPR Foundations
 - ISO/IEC 27001:2022 Lead Auditor
+- LetsDefend Soc Analyst 
 
 ## 📫 Contact Me
 
